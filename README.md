@@ -4,7 +4,7 @@ backoff-retry
 Simple library for retrying an async operation with exponential backoff.
 
 
-```
+```javascript
 var Backoff = require('../lib/backoff');
 
 function runAttempt(callback) {
