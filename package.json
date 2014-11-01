@@ -1,0 +1,24 @@
+{
+  "name": "backoff-retry",
+  "version": "0.0.0",
+  "description": "Simple library for retrying an async operation with exponential backoff ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coggle/backoff-retry.git"
+  },
+  "keywords": [
+    "backoff",
+    "retry",
+    "exponential"
+  ],
+  "author": "Andy <andy@coggle.it>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coggle/backoff-retry/issues"
+  },
+  "homepage": "https://github.com/Coggle/backoff-retry"
+}
