@@ -1,6 +1,6 @@
 {
   "name": "backoff-retry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple library for retrying an async operation with exponential backoff ",
   "main": "index.js",
   "scripts": {
